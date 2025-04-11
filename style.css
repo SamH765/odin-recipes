@@ -132,3 +132,8 @@ img {
     box-shadow: none;
     border: 2px dashed #000;
 }
+
+.section.steps {
+    background-color: rgb(0, 0, 64);
+    color: #fff;
+}
