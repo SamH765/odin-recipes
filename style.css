@@ -56,6 +56,10 @@ p {
     line-height: 2rem;
 }
 
+.recipes a:hover {
+    color: rgb(135, 36, 0);
+}
+
 .hero {
     background-color: skyblue;
     margin: 48px auto;
