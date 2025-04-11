@@ -91,3 +91,18 @@ p {
     background-color: grey;
     padding: 64px 0px;
 }
+
+.home {
+    display: inline-block;
+    text-decoration: none;
+    background-color: orangered;
+    color: #fff;
+    font-size: 24px;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+}
+
+.home:hover {
+    background-color: rgb(135, 36, 0);
+}
