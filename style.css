@@ -15,38 +15,49 @@ body {
     background-color: whitesmoke;
 }
 
+h2, h3, h4, h5, h6, p {
+    padding-bottom: 8px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+
 h1 {
     font-size: 48px;
-    font-weight: bold;
 }
 
 h2 {
     font-size: 40px;
-    font-weight: bold;
 }
 
 h3 {
     font-size: 32px;
-    font-weight: bold;
 }
 
 h4 {
     font-size: 24px;
-    font-weight: bold;
 }
 
 h5 {
     font-size: 22px;
-    font-weight: bold;
 }
 
 h6 {
     font-size: 20px;
-    font-weight: bold;
 }
 
-p {
+p, ul, ol {
     font-size: 18px;
+}
+
+ul, ol {
+    margin-left: 32px;
+}
+
+.content {
+    margin: auto 5% auto 5%;
 }
 
 .recipes a {
