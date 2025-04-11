@@ -125,3 +125,10 @@ img {
     margin: -160px auto auto auto;
     border-radius: 24px;
 }
+
+.section.ingredients {
+    background-color: beige;
+    border-radius: 0;
+    box-shadow: none;
+    border: 2px dashed #000;
+}
